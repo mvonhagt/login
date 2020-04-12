@@ -1,0 +1,1 @@
+docker run --rm -p 4200:4200 --name pos_testharness-local pos_testharness:local
